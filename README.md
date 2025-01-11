@@ -84,13 +84,13 @@ conversor-monedas/
 ## 📸 Capturas de Pantalla
 
 ### Menú Principal
-![Menú Principal](https://firebasestorage.googleapis.com/YOUR_STORAGE_URL/menu.png)
+![Menú Principal](https://firebasestorage.googleapis.com/v0/b/chateapp-latino.appspot.com/o/Alura%2Fconversor_monedas.jpg?alt=media&token=bb33c9ad-830f-4677-9631-8e15420fa897)
 
 ### Proceso de Conversión
-![Proceso de Conversión](https://firebasestorage.googleapis.com/YOUR_STORAGE_URL/conversion.png)
+![Proceso de Conversión](https://firebasestorage.googleapis.com/v0/b/chateapp-latino.appspot.com/o/Alura%2Fconversor_monedas.jpg?alt=media&token=bb33c9ad-830f-4677-9631-8e15420fa897)
 
 ### Resultado
-![Resultado](https://firebasestorage.googleapis.com/YOUR_STORAGE_URL/result.png)
+![Resultado](https://firebasestorage.googleapis.com/v0/b/chateapp-latino.appspot.com/o/Alura%2Fconversor_monedas.jpg?alt=media&token=bb33c9ad-830f-4677-9631-8e15420fa897)
 
 ## 🔗 Enlaces Útiles
 
