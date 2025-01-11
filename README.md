@@ -116,7 +116,7 @@ Estructura recomendada para las imágenes:
 
 ## 👨‍💻 Autor
 
-[Tu Nombre](https://github.com/DavidGMc)
+[C David G ---Androidavid.com](https://github.com/DavidGMc)
 
 ## 📄 Licencia
 
